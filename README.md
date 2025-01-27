@@ -1,5 +1,4 @@
-# Customer Segmentation Project
-## eCommerce Transactions Dataset
+# Customer Segmentation Project (eCommerce Transactions Dataset)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
