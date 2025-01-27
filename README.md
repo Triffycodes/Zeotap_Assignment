@@ -8,7 +8,7 @@
 - [Usage Instructions](#usage-instructions)
 - [Results and Visualizations](#results-and-visualizations)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 This project focuses on customer segmentation using exploratory data analysis (EDA), lookalike analysis, and clustering techniques. The goal is to identify distinct customer segments based on their purchasing behavior and demographic information, enabling targeted marketing strategies.
@@ -64,8 +64,6 @@ Feel free to explore the notebooks to see detailed analyses and results.
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
