@@ -39,8 +39,10 @@ The repository contains the following files:
 ## Getting Started
 To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine:
-2. Navigate to the project directory:
+1. Clone the repository to your local machine
+   
+2. Navigate to the project directory
+   
 3. Install the required libraries (if you haven't already):
 - pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
